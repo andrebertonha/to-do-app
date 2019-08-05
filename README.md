@@ -1,2 +1,2 @@
-# to-do-app
-to do app
+# a simple todo app
++ app developed to learn nodejs
